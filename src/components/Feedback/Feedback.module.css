@@ -19,6 +19,6 @@
     border: none;
 }
 
-.button:active {
+.button:hover {
     background-color: #ddd;
 }
